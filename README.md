@@ -1,4 +1,4 @@
-# BetterNewTab
+# BetterNewTab (Dark 2.0)
 
 A cool New Tab redesign as I felt the old one was very un-aesthetic and just plain ugly.
 
