@@ -11,6 +11,10 @@ Revamped New Tab with various features such as a revamped search bar with custom
 <img width="1708" height="609" alt="image" src="https://github.com/user-attachments/assets/e0a67b6a-8279-4e06-b3bd-579cc96dc9eb" />
 <img width="1041" height="412" alt="image" src="https://github.com/user-attachments/assets/38125890-f3bf-4718-93a8-78ed5e450035" />
 
+Comes with the "Circles" defualt wallpaper (made by me!)
+<img width="1920" height="1080" alt="theme_ntp_background" src="https://github.com/user-attachments/assets/225fd9ba-4124-4d05-afda-46c9b5950340" />
+
+
 🚀 Installation Guide
 
 To install, you must download and unzip both folders (Dark 2.0 NewTab and Color)
