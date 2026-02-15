@@ -13,7 +13,7 @@ Revamped New Tab with various features such as a revamped search bar with custom
 
 🚀 Installation Guide
 
-To install, you must download both folders (Dark 2.0 NewTab and Color)
+To install, you must download and unzip both folders (Dark 2.0 NewTab and Color)
 
 1. Enable Developer Mode
 
