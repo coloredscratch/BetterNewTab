@@ -23,14 +23,17 @@ Then go to chrome extensions, then enable developer mode. Developer mode:
 
 2. Load the Extension
 
-click load unpacked, and select each folder:
+click load unpacked, and select both folders:
 
 <img width="438" height="46" alt="image" src="https://github.com/user-attachments/assets/60c16091-a152-4ec0-b297-1f7993bb0762" />
 
+
 You will encounter this at the bottom of your screen, that is fine!
+
 <img width="1916" height="135" alt="image" src="https://github.com/user-attachments/assets/c8dc6b72-9dcd-4cca-b6ee-ebb3dcca36e8" />
 
 Just right click and click hide footer and it will dissapear!
+
 <img width="1908" height="158" alt="image" src="https://github.com/user-attachments/assets/523fd01d-a33f-45d6-9ccd-80172e382545" />
 
 
